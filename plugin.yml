@@ -1,0 +1,9 @@
+name: SpookyAC
+main: com.unknownmyname.main.Main
+version: DUMPED BY DORA
+authors: [BVFDora#1234]
+commands:
+  alerts:
+  anticheat:
+  checkban:
+      aliases: [cb]
